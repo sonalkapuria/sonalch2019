@@ -17,7 +17,7 @@ playerCoord = [0,0]
 icon0 = pygame.image.load('icon0.jpg').convert() 
 icon1 = pygame.image.load('icon1.jpg').convert()
 icon2 = pygame.image.load('icon2.jpg').convert()
-icon3 = pygame.image.load('icon3.jpg').convert()
+icon3 = pygame.image.load('download.png').convert()
 
 # 3 - Define game functions ####################################################
 ## 3a - Initialize the game board
